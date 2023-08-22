@@ -1,0 +1,28 @@
+body
+{
+font-family: 'Merriweather', cursive;
+background: #4174eb;
+}
+
+.div_encabezado
+{
+background: white;
+color: #d5330f;
+}
+
+.div_encabezado p{
+font-family: 'Roboto', sans-serif;
+color: rgb(0, 0, 0);
+/*esta propiedad aumenta el espacio entre cada letra.*/
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+
+}
+.div_principal button{
+font-family: 'Roboto', sans-serif;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
